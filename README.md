@@ -6,7 +6,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](/dashboard_img.png)
+![Dashboard Preview](/Dashboard_img.png)
 
 ---
 
